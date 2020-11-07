@@ -2,7 +2,7 @@ AWSTemplateFormatVersion: '2010-09-09'
 Transform: 'AWS::Serverless-2016-10-31'
 Description: An AWS Serverless Specification template describing your function.
 Resources:
-    K88Uk0XAoEIXPlatformUserCreateUser:
+    K88Uk0XAoEIXHcmPayrollCreateMergeHistoricalWorkshift:
         Type: 'AWS::Serverless::Function'
         Properties:
             Description: O serviço customizado irá receber a requisição antes de chegar ao serviço de destino e deverá alterar os dados de entrada da requisição conforme desejado e retornar os dados alterados.
